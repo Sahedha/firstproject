@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+    printf("sahedha's program is changed by veena");
     int n, i, sum = 0;
 
     printf("Enter a positive integer: ");
